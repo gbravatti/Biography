@@ -1,2 +1,2 @@
 # Biography
-Personal Biography
+Personal Biography, presentation (resume).
